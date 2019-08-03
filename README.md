@@ -13,7 +13,7 @@ Repositório criado para realização de atividades práticas desta disciplina.
 * Atividade 07
 * Atividade 08
 
-### Atividades em Sala 1
+### Atividades em Sala 2
 * Atividade 09
 * Atividade 10
 * Atividade 11
