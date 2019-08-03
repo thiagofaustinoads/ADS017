@@ -11,14 +11,12 @@ Repositório criado para realização de atividades práticas desta disciplina.
 * Atividade 05
 * Atividade 06
 * Atividade 07
-* Atividade 08
 
 ### Atividades em Sala 2
+* Atividade 08
 * Atividade 09
 * Atividade 10
 * Atividade 11
 * Atividade 12
 * Atividade 13
 * Atividade 14
-* Atividade 15
-* Atividade 16
