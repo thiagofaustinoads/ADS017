@@ -16,7 +16,7 @@ public class TestaModoExibicao {
         janelaPrincipal.setVisible(true);
 
         JDialog caixaDialogo = new JDialog(janelaPrincipal, false);
-        caixaDialogo.setTitle("Caixa Dialogo");
+        caixaDialogo b.setTitle("Caixa Dialogo");
         caixaDialogo.setSize(320, 240);
         caixaDialogo.setVisible(true);
 
