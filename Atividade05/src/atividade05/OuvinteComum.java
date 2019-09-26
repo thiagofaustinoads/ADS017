@@ -1,7 +1,16 @@
 package atividade05;
 
-class OuvinteComum implements ActionListener {
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class OuvinteComum implements ActionListener {
+
+    /**
+     *
+     * @param e
+     */
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        System.out.println("actionPerformed disparado.......");
+    }
 }
-public void actionPerformed(ActionEvent e) { }
- 
-JOptionPane.showMessageDialog(null, "actionPerformed disparado...");

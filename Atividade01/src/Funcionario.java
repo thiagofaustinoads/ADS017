@@ -4,10 +4,10 @@ public class Funcionario {
     public static final int SEXO_MASCULINO = 1;
     public static final int SEXO_FEMININO = 2;
 
-    private int matricula;
-    private String nome;
-    private int sexo;
-    private double salario;
+    private final int matricula;
+    private final String nome;
+    private final int sexo;
+    private final double salario;
 
     public Funcionario(int matricula, String nome, int sexo, double salario) {
         this.matricula = matricula;
